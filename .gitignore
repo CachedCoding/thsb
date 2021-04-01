@@ -1,2 +1,6 @@
 # Ignore secrets.json
 secrets.json
+# Ignore env
+env/
+# Ignore vscode
+.vscode/
