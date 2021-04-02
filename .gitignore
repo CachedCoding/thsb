@@ -4,3 +4,5 @@ secrets.json
 env/
 # Ignore vscode
 .vscode/
+# Ignore pycache
+__pycache__/
