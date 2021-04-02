@@ -6,8 +6,8 @@
 This is the main script. Run it to get the
 get the post to tweet and then tweet it
 '''
-import twitter
-import reddit
+import poster as twitter
+import yoinker as reddit
 
 if __name__ == '__main__':
     # Reddit stuff first

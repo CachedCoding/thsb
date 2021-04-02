@@ -6,3 +6,5 @@ env/
 .vscode/
 # Ignore pycache
 __pycache__/
+# Ignore screen recordings
+Videos/
